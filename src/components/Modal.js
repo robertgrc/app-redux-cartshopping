@@ -27,7 +27,7 @@ const Modal = () => {
             onClick={()=>{
                 dispatch(closeModal())
         }}>
-             confirm
+             cancel
          </button>
         </div>
       </div>
